@@ -1,0 +1,8 @@
+## OPERATING SYSTEM
+._*
+.DS_Store
+.Trash*
+Thumbs.db
+
+## VS Code
+*.code-workspace
